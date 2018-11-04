@@ -1,0 +1,19 @@
+name: NPCMarket
+author: lowliver
+version: 1.0.0
+main: NPCMarket\Main
+api: ["3.0.7", "3.0.8", "3.0.9", "4.0.0", "4.0.1"]
+
+commands: 
+ 상점생성: 
+  description: Create NPCMarket
+  usage: /상점생성
+ 상점제거: 
+  description: Delete NPCMarket
+  usage: /상점제거
+ 상점데이터제거: 
+  description: Delete Items Market data
+  usage: /상점데이터제거
+ 판매전체:
+  description: Sell All Item
+  usage: /판매전체
